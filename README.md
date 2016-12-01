@@ -5,3 +5,4 @@ Server configuration details:
   Password: rootPass###
       - You should know the number ### you've been assigned.
       - Contact administration if help is needed.
+ 
